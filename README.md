@@ -157,11 +157,9 @@ Recommended dataset sharing options:
 - **GitHub Releases**: Useful only for smaller compressed artifacts.
 - **Git LFS**: Possible for large files, but GitHub's free bandwidth and storage limits can be restrictive.
 
-After publishing the dataset externally, add the dataset URL here:
+The full dataset is available on Kaggle:
 
-```text
-Dataset URL: <add dataset link here>
-```
+[Handwritten Gujarati Text Images](https://www.kaggle.com/datasets/mehulkumardalwadi/handwritten-gujarati-text-images)
 
 Expected local layout after downloading the dataset:
 
@@ -215,4 +213,3 @@ If you use this work, please cite:
 ## License
 
 Add a license before making the repository public. For academic code, MIT is commonly used for source code. Dataset licensing should be decided separately, especially if handwritten samples were collected from participants.
-
