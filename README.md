@@ -6,12 +6,12 @@ This repository contains the implementation for a handwritten Gujarati text reco
 
 **Mehulkumar Dalwadi**  
 Faculty of IT and Computer Science, Parul University, Waghodia, Vadodara, Gujarat-391760, India  
-Email: mehulkumar.dalwadi33536@paruluniversity.ac.in  
+Email: mehulkumardalwadi.phd@gmail.com  
 ORCID: https://orcid.org/0009-0009-7878-0995
 
-**Corresponding Author: Dr. Abhishek Mehta**  
+**Dr. Abhishek Mehta**  
 Department of MCA, Parul Institute of Computer Application, Faculty of IT and Computer Science, Parul University, Waghodia, Vadodara, Gujarat-391760, India  
-Email: abhishek.mehta7067@paruluniversity.ac.in
+
 
 ## Project Overview
 
