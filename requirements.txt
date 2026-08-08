@@ -1,0 +1,11 @@
+opencv-python
+pandas
+numpy
+scikit-learn
+tqdm
+torch
+torchvision
+pillow
+deep-translator
+langdetect
+
