@@ -149,14 +149,6 @@ For GPU training, install the PyTorch build that matches your CUDA version from 
 
 The full dataset is not committed directly to this repository because it is large and contains many image files. For this project, the local dataset folder is approximately 2.75 GB with about 190k files, which is not suitable for a normal GitHub repository commit.
 
-Recommended dataset sharing options:
-
-- **Zenodo**: Best for academic publishing because it can provide a DOI.
-- **Kaggle Datasets**: Good for public machine learning datasets and reproducibility.
-- **Google Drive / OneDrive**: Simple option for private or reviewer-only sharing.
-- **GitHub Releases**: Useful only for smaller compressed artifacts.
-- **Git LFS**: Possible for large files, but GitHub's free bandwidth and storage limits can be restrictive.
-
 The full dataset is available on Kaggle:
 
 [Handwritten Gujarati Text Images](https://www.kaggle.com/datasets/mehulkumardalwadi/handwritten-gujarati-text-images)
